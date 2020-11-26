@@ -1,4 +1,4 @@
-# IMA - SC Measure Points Data Collector
+# IMA - SC: Measure Points Data Collector
 
 Script for data collection of the points of bathing in the state of Santa Catarina. Collection is done using data from the Instituto do Meio Ambiente de Santa Catarina (IMA)
 
